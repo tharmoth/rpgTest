@@ -1,0 +1,23 @@
+Priority One (Gamebreaking):
+ 
+Priority two (important functionality)
+  Fix Auto Spite Layer Placement
+  
+Priority three (to add)
+  refactor player input code
+  refactor code for modularity
+  inplement basic enemy
+  make the boundry boxes on river pieces line up
+
+Priority four (to add eventually)
+  add room switching functionality
+  add combat
+  add menus
+  figure out background animation
+  
+Priority unimportnant
+  clean up library requreiring code
+  
+Notes to self
+  stop trying to get unimportant things to work 
+  like resolution scaling before you have a playable game
